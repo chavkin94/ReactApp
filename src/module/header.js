@@ -19,7 +19,7 @@ function Header() {
             </p>
             <nav>
                 <ul>
-                    <li><Link to='/'  >Начальная</Link></li>
+                    <li><Link to='/'  >Главная</Link></li>
                     <li><Link to='/posts'  >Посты</Link></li>
                 </ul>
             </nav>
